@@ -1,0 +1,5 @@
+[versions]
+truth = "1.4.5"
+
+[libraries]
+truth = { module = "com.google.truth:truth", version.ref = "truth" }
